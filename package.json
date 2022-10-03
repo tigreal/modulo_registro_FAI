@@ -1,0 +1,31 @@
+{
+  "name": "registrationModule",
+  "version": "1.0.9",
+  "description": "Registration-Login Module",
+  "main": "registrationModule",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitjain28may/registrationModule.git"
+  },
+  "keywords": [
+    "Registration-Login",
+    "Module",
+    "Registration",
+    "Signup",
+    "Login",
+    "Form"
+  ],
+  "author": [
+    "Ankit Jain",
+    "ankitjain28may77@gmail.com",
+    "http://ankitjain.surge.sh"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitjain28may/registrationModule/issues"
+  },
+  "homepage": "https://github.com/ankitjain28may/registrationModule#readme"
+}
